@@ -1,4 +1,4 @@
-#                          WiFi-Dump
+<h1 align="center">WiFi Dumper</h1>
 
 <!-- PROJECT LOGO -->
 <br />
